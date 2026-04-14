@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+.gradle/
+build/
+
+# Node
+node_modules/
+dist/
+.next/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
